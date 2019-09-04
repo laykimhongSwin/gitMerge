@@ -1,1 +1,2 @@
 This is a file for git merge demo.
+This is the chang made by developer A.
